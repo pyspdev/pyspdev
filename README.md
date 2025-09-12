@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hola 👋
+
+👋 Sobre mí
+
+Hola, soy **pyspdev (Julio Moreno )**, Data Engineer con experiencia en Python, Apache Spark y desarrollo de aplicaciones escalables.
+
+en **pyspdev**, estoy formando mi repositorio personal de proyectos en PySpark y desarrollo backend en Python.
+
+- 📍 Localización: [León, México]  
+- 🎯 Áreas de interés: PySpark, APIs, ingeniería de datos, pipelines ETL.  
+- 🚀 Actualmente trabajando en proyectos propios con PySpark y análisis de datos.  
+- 📚 Aprendiendo machine learning e infraestructura distribuida.  
+- 🧑‍🤝‍🧑 Abierto a colaboraciones en soluciones Data + Python.  
+- ✉️ Contáctame en: [[email pyspdev@gmail.com ó LinkedIn](https://www.linkedin.com/in/jcesarmr/)]
+
+## 💼 Experiencia relevante
+
+Ingeniero de datos con experiencia en diseño y construcción de pipelines ETL batch y streaming utilizando PySpark, Kafka, Airflow, y gestión de datos en entornos on-premise y nube.
 
 <!--
 **pyspdev/pyspdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
