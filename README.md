@@ -9,7 +9,7 @@ en **pyspdev**, estoy formando mi repositorio personal de proyectos en PySpark y
 - 📍 Localización: [León, México]  
 - 🎯 Áreas de interés: PySpark, APIs, ingeniería de datos, pipelines ETL.  
 - 🚀 Actualmente trabajando en proyectos propios con PySpark y análisis de datos.  
-- 📚 Aprendiendo machine learning e infraestructura distribuida.  
+- 📚 con mis inicios en machine learning e infraestructura distribuida.  
 - 🧑‍🤝‍🧑 Abierto a colaboraciones en soluciones Data + Python.  
 - ✉️ Contáctame en: [[email pyspdev@gmail.com ó LinkedIn](https://www.linkedin.com/in/jcesarmr/)]
 
