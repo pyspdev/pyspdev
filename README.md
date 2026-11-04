@@ -13,8 +13,6 @@ en **pyspdev**, estoy formando mi repositorio personal de proyectos en PySpark y
 - 🧑‍🤝‍🧑 Abierto a colaboraciones en soluciones Data + Python.  
 - ✉️ Contáctame en: [[email pyspdev@gmail.com ó LinkedIn](https://www.linkedin.com/in/jcesarmr/)]
 
-[![JulMo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyspdev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💼 Experiencia relevante
 
 Ingeniero de datos con experiencia en diseño y construcción de pipelines ETL batch y streaming utilizando PySpark, Kafka, Airflow, y gestión de datos en entornos on-premise y nube.
